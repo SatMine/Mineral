@@ -13,9 +13,10 @@ The Mineral protocol supports decentralized governance, empowering users with co
 ### Open Source Nature
 The Mineral protocol adheres to open-source principles, providing a transparent and auditable technical implementation. This openness not only strengthens user trust but also offers developers and researchers the opportunity to participate and contribute collaboratively, driving the continuous evolution of the protocol.
 
+More info check our [Whitepaper](https://mineral-protocol.gitbook.io/whitepaper/)
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
